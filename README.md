@@ -8,11 +8,11 @@ HTML<br>
 Bootstrap<br>
 AWS
 ## Características Principales
-Listado de productos.
-Ver un producto (Mostrar una descripción de un producto).
-Inicio de sesión (admin y usuario). 
-Dar de alta nuevo producto (solo administrador).
-Añadir producto a carro de compra.
+Listado de productos.<br>
+Ver un producto (Mostrar una descripción de un producto).<br>
+Inicio de sesión (admin y usuario). <br>
+Dar de alta nuevo producto (solo administrador).<br>
+Añadir producto a carro de compra.<br>
 Ver carro de la compra.
 ## Uso de la aplicación
 **Usuarios:**<br>
