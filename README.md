@@ -25,6 +25,6 @@ Solo los administradores pueden añadir productos
 ## Despliegue en AWS
 La aplicación estará alojada en un servidor EC2 con la siguiente configuración:<br>
 Linux configurado para que funcione la aplicación.<br>
-Docker onstalado para desplegar la aplicación y acceder a ella mediante una ip elástica.
+Docker instalado para desplegar la aplicación y acceder a ella mediante una ip elástica.
 ## Autor 
 **Moisés Pintiado Velasco ASIR2**
